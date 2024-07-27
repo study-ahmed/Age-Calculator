@@ -3,7 +3,7 @@ Simple HTML &amp; CSS and JavaScript
 <br>
 <hr>
 <br>
-<img src="../Age-Calculator/image/container.png">
+<img src="image/container.png">
 <br>
 <hr>
 <br>
