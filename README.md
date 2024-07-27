@@ -7,7 +7,7 @@ Simple HTML &amp; CSS and JavaScript
 <br>
 <hr>
 <br>
-<img src="../Age-Calculator/image/result.png">
+<img src="image/result.png">
 <br>
 <hr>
 <br>
